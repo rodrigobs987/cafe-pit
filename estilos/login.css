@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #380707;
+    color: white;
+    font-style: italic;
+    height: 80px;
+    padding-top: 15px;
+}
+
+main {
+    margin: 30px 15px;
+}
+
+#principal {
+    background-color: #380707;
+    max-width: 600px;
+    border-radius: 20px;
+    padding: 20px 80px;
+}
+#principal h2 {
+    color: white;
+    font-style: italic;
+    margin-bottom: 80px;
+}
+#principal p {
+    color: white;
+}
+#logar{
+    margin: 20px 0px;
+}
+#principal div{
+    margin: 15px 0px;
+}
+#principal span {
+    color: white;
+}
+#principal a {
+    color: white;
+    font-size: 1.2em;
+}
+img{
+    width: 220px;
+    height: 150px;
+    margin-top: 80px;
+}
